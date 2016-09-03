@@ -1,6 +1,6 @@
 ﻿var doc = app.activeDocument; //active document
 var jpegQuality = 12; //Image Quality
-var folderPath = "C:/Users/micro/Downloads/"; //folder view its changable
+var folderPath = "C:/Users/micro/Downloads/"; //folder view please change folder directory for save image
 var imageName = "image.jpg"; //Image name to save its changable
 var filePath = folderPath + imageName;
 
